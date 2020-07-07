@@ -1,4 +1,4 @@
-#IntelWifi plugin for ASUS S430FN
+# IntelWifi plugin for ASUS S430FN
 
 ## How to use
 

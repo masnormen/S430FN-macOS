@@ -49,6 +49,7 @@ The concepts of EFI, OpenCore, ACPI, SSDTs (.aml and .dsl files), kexts, and any
 
 # Version history
 
+- 1.2 / Sep 18 2020: Rolled back some kext's update which is to blame for the battery drainage issue.
 - 1.1 / Sep 2 2020: Updated all kexts, included AsusSMCDaemon & Heliport
 - 1.0 / Jul 7 2020: First version
 
